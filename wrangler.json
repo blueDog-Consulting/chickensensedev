@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "chickensensedev",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "58ca48b1-71ae-437d-bc55-ab1c0de23bc1",
+      "database_name": "d1-chickensense-dbDev"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
